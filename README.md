@@ -1,7 +1,7 @@
 switchbackup
 ============
 
-Backup Nortel/Avaya switches to a ftfp server
+Backup Nortel/Avaya switches to a tftp server
 
 ## Configuration
 In the script are four variables to set:
